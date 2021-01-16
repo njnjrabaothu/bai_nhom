@@ -11,7 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e754652-df72-46c2-b12d-2e44a463b07b" name="Default Changelist" comment="trangchinh">
+      <change afterPath="$PROJECT_DIR$/Great for Sunglasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shop By Color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Great for Sunglasses.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +29,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -72,7 +78,10 @@
       <workItem from="1610429460469" duration="9146000" />
       <workItem from="1610516239129" duration="6770000" />
       <workItem from="1610527075532" duration="170000" />
-      <workItem from="1610527407175" duration="5221000" />
+      <workItem from="1610527407175" duration="6727000" />
+      <workItem from="1610620451221" duration="1389000" />
+      <workItem from="1610688768326" duration="7259000" />
+      <workItem from="1610804224118" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="trangchinh">
       <created>1610527103851</created>
