@@ -13,10 +13,6 @@ h2{
 h1{
     color: #333;
 }
-.col-md-pull a{
-    display: block;
-    margin-bottom:10px ;
-}
 .col-md-pull img{
     width: 100%;
     height: auto;
@@ -77,7 +73,6 @@ h1{
     color: white;
     margin-bottom: 15px;
     padding-bottom: 20px;
-
 }
 .l2{
     text-decoration: none;
@@ -89,7 +84,6 @@ h1{
     color: #dbd7d7;
     transition: 0.6s;
 }
-
 .col-sm-3-1 a:hover{
     border: 5px solid #d0cbcb;
     transition: 0.7s;
@@ -129,7 +123,6 @@ h1{
     font-size: 20px;
     width: 95%;
 }
-
 .container li{
     display: inline-block;
     width:16.6666% ;
